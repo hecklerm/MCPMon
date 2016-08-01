@@ -1,0 +1,5 @@
+---
+applications:
+  - name: mcpmon
+    path: target/MCPMon-0.0.1-SNAPSHOT.jar
+    memory: 512M
